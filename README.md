@@ -1,3 +1,5 @@
+<h1>The Truest Truth Version
+
 <h1>Automatic1111 Stable Diffusion web UI</h1>
 
 [![RunPod](https://api.runpod.io/badge/runpod-workers/worker-a1111)](https://www.runpod.io/console/hub/runpod-workers/worker-a1111)

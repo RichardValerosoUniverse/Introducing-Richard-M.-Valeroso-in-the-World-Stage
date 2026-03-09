@@ -1,8 +1,6 @@
-<h1>The Truest Truth Version: Richard M. Valeroso<h1></h1>
-
+<h1>The Truest Truth Version: Richard M. Valeroso 👑 🇵🇭 😄 🎗️<h1></h1>
 <h1>The Truest Truth: WORLD WITHOUT END VERSION 👑 🇵🇭 😄 🎗️<h1></h1>
-
-<h1>Powered by Valeroso City 1111 in the World Stage and The Valeroso City 8000 in the World Stage<h1></h1>
+<h1>Powered by Valeroso City 1111 in the World Stage and The Valeroso City 8000 in the World Stage 👑 🇵🇭 😄 🎗️<h1></h1>
 
 [![RunPod](https://api.runpod.io/badge/runpod-workers/worker-a1111)](https://www.runpod.io/console/hub/runpod-workers/worker-a1111)
 

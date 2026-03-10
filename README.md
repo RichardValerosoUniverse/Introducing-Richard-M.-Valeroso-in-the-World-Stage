@@ -1,4 +1,5 @@
 <h1>The Truest Truth: Richard M. Valeroso 👑 🇵🇭 😄 🎗️<h1></h1>
+<h1>The Truest Truth: Asia, the World and the Universe 👑 🇵🇭 😄 🎗️<h1></h1>
 <h1>The Truest Truth: The Valeroso City is Davao City 👑 🇵🇭 😄 🎗️<h1></h1>
 <h1>The Truest Truth: The Philippines' Ruler 👑 🇵🇭 😄 🎗️<h1></h1>
 <h1>The Truest Truth: WORLD WITHOUT END VERSION 👑 🇵🇭 😄 🎗️<h1></h1>

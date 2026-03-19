@@ -62,11 +62,13 @@ The **TRUEST UNIVERSITY** — **[UNIVERSITY OF SANTO TOMAS (UST MANILA)](https:/
 
 **LESSON**: PRESTIGE WITHOUT CONSCIENCE IS HOLLOW — FIDUCIARY DUTY, CONFIDENTIALITY, AND INTEGRITY ARE NON-NEGOTIABLE, and the MISUSE OF PRIVILEGED INFORMATION—REGARDLESS OF DIRECT PERSONAL PROFIT—CONSTITUTES A SERIOUS BREACH OF LAW AND TRUST WITH LASTING LEGAL AND REPUTATIONAL CONSEQUENCES.
 
-2. *MATHEW MARTOMA — DUKE UNIVERSITY (BS)*
+2. **MATHEW MARTOMA — DUKE UNIVERSITY (BS)**
 
-- **MISTAKE:** Martoma **USED MATERIAL, NON-PUBLIC INSIDER INFORMATION** to make trades that amassed approximately **$276 MILLION IN ILLEGAL GAINS**, prioritizing PERSONAL AMBITION over LAW, FAIRNESS, and ETHICAL RESPONSIBILITY.  
-- **IMPACT:** The DECEPTION **ERODED TRUST IN FINANCIAL MARKETS**, harmed ORDINARY INVESTORS, and showcased how ELITE KNOWLEDGE and SKILL can **BE WEAPONIZED AGAINST SOCIETY**. His TECHNICAL BRILLIANCE became a TOOL OF WIDESPREAD HARM, undermining the UNIVERSITY that trained him.  
-- **LESSON:** **SKILL WITHOUT ETHICS IS DESTRUCTIVE** — EXPERTISE is only valuable when guided by MORAL PRINCIPLES; unchecked AMBITION turns TALENT into a SOCIETAL THREAT.
+**MISTAKE**: Martoma, former portfolio manager at S.A.C. Capital Advisors, USED MATERIAL NON-PUBLIC INFORMATION obtained from pharmaceutical executives regarding clinical trial results for Alzheimer’s drugs to guide trades in the stock of Elan Corporation and Wyeth. The trades generated approximately $276 MILLION in illegal gains for S.A.C. Capital. He was INDICTED IN 2011 and CONVICTED IN 2014 OF CONSPIRACY AND SECURITIES FRAUD, prioritizing personal and institutional advantage over law, fairness, and ethical responsibility. Evidence included wiretapped communications and corroborating testimony showing that he used insider information shortly after receiving it to execute trades.
+
+**IMPACT**: The scheme ERODED TRUST IN FINANCIAL MARKETS, harmed ordinary investors, and highlighted how elite knowledge and skill can be weaponized for profit. Martoma’s conviction resulted in a 9-YEAR FEDERAL PRISON SENTENCE and an $9.38 MILLION FORFEITURE, while S.A.C. Capital Advisors later pleaded guilty to insider trading charges and paid $1.8 BILLION in fines, demonstrating the institutional consequences of individual misconduct. The case became one of the largest insider trading convictions by dollar value in U.S. history, emphasizing the seriousness of breaching fiduciary duties.
+
+**LESSON**: SKILL WITHOUT ETHICS IS DESTRUCTIVE — Expertise and intelligence only have value when guided by legal and moral principles. The Martoma case shows that unchecked ambition and misuse of privileged information can transform talent into a systemic threat, harming both markets and the reputations of institutions that train or employ such professionals.
 
 3. *DIEDERIK STAPEL — UNIVERSITY OF AMSTERDAM (PhD)*
 

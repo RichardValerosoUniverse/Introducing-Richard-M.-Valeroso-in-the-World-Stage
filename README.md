@@ -70,11 +70,13 @@ The **TRUEST UNIVERSITY** — **[UNIVERSITY OF SANTO TOMAS (UST MANILA)](https:/
 
 **LESSON**: SKILL WITHOUT ETHICS IS DESTRUCTIVE — Expertise and intelligence only have value when guided by legal and moral principles. The Martoma case shows that unchecked ambition and misuse of privileged information can transform talent into a systemic threat, harming both markets and the reputations of institutions that train or employ such professionals.
 
-3. *DIEDERIK STAPEL — UNIVERSITY OF AMSTERDAM (PhD)*
+3. **DIEDERIK STAPEL — UNIVERSITY OF AMSTERDAM (PhD)**
 
-- **MISTAKE:** Stapel systematically **FABRICATED EXPERIMENTAL DATA AND FALSIFIED DOZENS OF PAPERS** to gain RECOGNITION and PERSONAL ACCLAIM, deliberately misleading COLLEAGUES, STUDENTS, and the PUBLIC.  
-- **IMPACT:** Over **50 PUBLICATIONS WERE RETRACTED**, research built on FALSE FOUNDATIONS was INVALIDATED, and **TRUST IN SOCIAL PSYCHOLOGY AND UNIVERSITIES WAS DEEPLY UNDERMINED**. CAREERS, KNOWLEDGE, and PUBLIC CONFIDENCE suffered as a result of his ETHICAL BREACH.  
-- **LESSON:** **RECOGNITION CANNOT REPLACE INTEGRITY** — FAME earned through DECEIT corrodes not only PERSONAL LEGACY but the UNIVERSITIES and COMMUNITIES that rely on TRUTH.
+**MISTAKE**: Stapel, a former professor and dean at Tilburg University, SYSTEMATICALLY FABRICATED AND MANIPULATED DATA OVER A PROLONGED PERIOD, producing FICTITIOUS DATASETS FOR STUDIES THAT WERE NOT ACTUALLY CONDUCTED. He often CONTROLLED THE DATA COLLECTION PROCESS HIMSELF, limiting verification, and supplied fabricated results to co-authors and students. Independent investigations, most notably the Levelt Report, confirmed that he FALSIFIED DATA IN DOZENS OF PEER-REVIEWED PUBLICATIONS, misleading the academic community in Social Psychology.
+
+**IMPACT**: The investigations led to the RETRACTION OF MORE THAN 50 PUBLICATIONS (OVER 55 IN TOTAL) and the INVALIDATION OF NUMEROUS STUDIES, including SEVERAL DOCTORAL THESES AND STUDENT PROJECTS that relied on his fabricated data. Stapel was DISMISSED FROM TILBURG UNIVERSITY IN 2011 and lost his academic positions and professional standing. The case became one of the MOST SIGNIFICANT INSTANCES OF ACADEMIC FRAUD IN MODERN SCIENCE, SEVERELY DAMAGING TRUST IN SOCIAL PSYCHOLOGY and contributing to increased scrutiny during the field’s broader REPLICATION CRISIS, prompting reforms in DATA TRANSPARENCY, RESEARCH OVERSIGHT, AND REPRODUCIBILITY.
+
+**LESSON**: RECOGNITION CANNOT REPLACE INTEGRITY — Scientific credibility depends on TRUTH, VERIFIABILITY, AND TRANSPARENCY. The Stapel case demonstrates that SYSTEMATIC DECEPTION CORRUPTS NOT ONLY INDIVIDUAL CAREERS BUT ALSO THE FOUNDATIONS OF KNOWLEDGE, harming students, institutions, and public trust in research.
 
 4. *HWANG WOO-SUK — SEOUL NATIONAL UNIVERSITY (BS/MS/PhD)*
 
